@@ -1,4 +1,8 @@
 This is the initial contents
 of the second file that comprises
 our most excellent project.
+<<<<<<< HEAD
 UserB is doing step 10
+=======
+UserA is doing step 10
+>>>>>>> 544874af9c77194e88f67f1da975b8fc45a38b6e
